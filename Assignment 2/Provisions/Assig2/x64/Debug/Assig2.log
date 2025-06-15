@@ -1,0 +1,6 @@
+﻿  collection.c
+C:\Users\joshu\OneDrive - University of Tasmania\KIT107 Programming\Assignment 2\Provisions\Assig2\collection.c(74,14): warning C4133: 'function': incompatible types - from 'collection_format *' to 'theme *'
+C:\Users\joshu\OneDrive - University of Tasmania\KIT107 Programming\Assignment 2\Provisions\Assig2\collection.c(75,20): warning C4133: 'function': incompatible types - from 'collection_format' to 'theme'
+C:\Users\joshu\OneDrive - University of Tasmania\KIT107 Programming\Assignment 2\Provisions\Assig2\collection.c(103,15): warning C4133: 'function': incompatible types - from 'collection_format *' to 'theme *'
+C:\Users\joshu\OneDrive - University of Tasmania\KIT107 Programming\Assignment 2\Provisions\Assig2\collection.c(104,21): warning C4133: 'function': incompatible types - from 'collection_format' to 'theme'
+  Assig2.vcxproj -> C:\Users\joshu\OneDrive - University of Tasmania\KIT107 Programming\Assignment 2\Provisions\x64\Debug\Assig2.exe
